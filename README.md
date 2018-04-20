@@ -1,6 +1,6 @@
 # oss
-oss 上传<br>
-<a href="http://oss.xinxinst.com/api/demo.php" target="_blank">图片预览</a><br>
+<a href="http://oss.xinxinst.com/api/demo.php" target="_blank">oss 上传</a><br>
+图片预览<br>
 <img src="http://static.xinxinst.com/sjnhm/banner/2018_03_28/15222060308561_900_450.jpg?size=180_90">
 
 <img src="http://static.xinxinst.com/sjnhm/banner/2018_03_28/15222060308561_900_450.jpg?size=600_300">
